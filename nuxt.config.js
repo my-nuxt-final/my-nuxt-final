@@ -2,6 +2,9 @@ module.exports = {
   /*
   ** Headers of the page
   */
+ router: {
+  base: '/my-nuxt-final/'
+  },
   head: {
     title: 'cloth store',
     meta: [
